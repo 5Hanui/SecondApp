@@ -16,6 +16,8 @@
 		847D3A0626D3560700B6D38A /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847D3A0526D3560700B6D38A /* SecondViewController.swift */; };
 		847D3A0826D3564A00B6D38A /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847D3A0726D3564A00B6D38A /* ThirdViewController.swift */; };
 		847D3A0A26D3580300B6D38A /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847D3A0926D3580300B6D38A /* LoginViewController.swift */; };
+		847D3A0C26D35BAD00B6D38A /* TearViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847D3A0B26D35BAD00B6D38A /* TearViewController.swift */; };
+		847D3A0E26D35C9100B6D38A /* IndigoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847D3A0D26D35C9100B6D38A /* IndigoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		847D3A0526D3560700B6D38A /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		847D3A0726D3564A00B6D38A /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		847D3A0926D3580300B6D38A /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		847D3A0B26D35BAD00B6D38A /* TearViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TearViewController.swift; sourceTree = "<group>"; };
+		847D3A0D26D35C9100B6D38A /* IndigoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndigoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +76,8 @@
 				847D3A0526D3560700B6D38A /* SecondViewController.swift */,
 				847D3A0726D3564A00B6D38A /* ThirdViewController.swift */,
 				847D3A0926D3580300B6D38A /* LoginViewController.swift */,
+				847D3A0B26D35BAD00B6D38A /* TearViewController.swift */,
+				847D3A0D26D35C9100B6D38A /* IndigoViewController.swift */,
 			);
 			path = SecondApp;
 			sourceTree = "<group>";
@@ -149,8 +155,10 @@
 				847D3A0A26D3580300B6D38A /* LoginViewController.swift in Sources */,
 				847D3A0626D3560700B6D38A /* SecondViewController.swift in Sources */,
 				847D39F326D3280300B6D38A /* ViewController.swift in Sources */,
+				847D3A0C26D35BAD00B6D38A /* TearViewController.swift in Sources */,
 				847D3A0826D3564A00B6D38A /* ThirdViewController.swift in Sources */,
 				847D39EF26D3280300B6D38A /* AppDelegate.swift in Sources */,
+				847D3A0E26D35C9100B6D38A /* IndigoViewController.swift in Sources */,
 				847D39F126D3280300B6D38A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
